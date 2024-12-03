@@ -123,6 +123,9 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     flex: 1;
     max-width: 300px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
   }
   
   .card h3 {
